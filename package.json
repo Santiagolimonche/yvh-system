@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "author": "Santiago Limonche García",
+  "license": "ISC"
+}
